@@ -1,6 +1,6 @@
 let state;
 
-unction createStore(reducer) {
+function createStore(reducer) {
   let state;
 
   function dispatch(action) {
